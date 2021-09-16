@@ -1,0 +1,61 @@
+.navbar {
+    text-align: center;
+    background-color: rgb(129, 129, 129);
+    text-decoration: none;
+    color: white;
+    text-shadow: white;
+}
+
+a {
+    text-align: center;
+    background-color: rgb(129, 129, 129);
+    text-decoration: underline;
+    color: white;
+    text-shadow: white;
+}
+
+.heading {
+    text-align: center;
+}
+
+.paragraf {
+    text-align: justify;
+    font-family: Arial;
+    background-color: rgb(129, 129, 129);
+}
+
+.slika-1 {
+    text-align: center;
+}
+
+.slika-2 {
+    text-align: center;
+}
+
+.hover {
+    text-align: center;
+}
+
+.hover:hover {
+    color: blue;
+    text-align: center;
+}
+
+.hoteli {
+    background-color: yellow;
+    text-align: center;
+    transition: 1s;
+}
+
+.hoteli:hover {
+    background-color: grey
+}
+
+.slika-animacija {
+    background-color: yellow;
+    transition: background-color .5s;
+}
+
+.slika-animacija:hover {
+    background-color: grey;
+}
